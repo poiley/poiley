@@ -3,6 +3,7 @@ i build email for people and agents at [primitive](https://primitive.dev).
 i work across product, infrastructure, and reliability.
 
 some things i’ve built:
+
 · [cellarr](https://github.com/poiley/cellarr) · [nebularr-operator](https://github.com/poiley/nebularr-operator)
 · [ollama-dashboard](https://github.com/poiley/ollama-dashboard) · [whatisxlistening.to](https://github.com/poiley/whatisxlistening.to)
 · [recognizer](https://github.com/poiley/recognizer) · [actual-software/actual-cli](https://github.com/actual-software/actual-cli)
