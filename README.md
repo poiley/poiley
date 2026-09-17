@@ -1,6 +1,6 @@
-i build email for people and agents at [primitive](https://primitive.dev).
+i'm builduing a universal communication layer for people and agents at [primitive](https://primitive.dev).
 
-i work across product, infrastructure, and reliability.
+i work across product, infrastructure, and reliability. 
 
 some things i’ve built:
 
@@ -10,6 +10,6 @@ some things i’ve built:
 · [findmy-location](https://github.com/poiley/findmy-location) · [weekly-records](https://github.com/poiley/weekly-records)
 · [beady](https://github.com/poiley/beady) · [dotfiles](https://github.com/poiley/dotfiles) ·
 
-i’m interested in developer tools, self-hosting, local ai, and music. i like systems that are pleasant to use and honest about how they behave.
+i’m interested in developer tools, self-hosting, local ai, film, and music. i like systems that are pleasant to use and honest about how they behave.
 
-· [twitter](https://x.com/_poile_) · [linkedin](https://www.linkedin.com/in/poile/) · [github](https://github.com/poiley) · [primitive](https://primitive.dev) ·
+· [twitter](https://x.com/_poile_) · [linkedin](https://www.linkedin.com/in/poile/) · [github](https://github.com/poiley) · [letterboxd](https://letterboxd.com/bjp) · [primitive](https://primitive.dev) ·
