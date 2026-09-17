@@ -1,5 +1,3 @@
-# benjamin poile
-
 i build email for people and agents at [primitive](https://primitive.dev).
 
 i work across product, infrastructure, and reliability.
