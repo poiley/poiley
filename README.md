@@ -2,7 +2,7 @@ i'm builduing a universal communication layer for people and agents at [primitiv
 
 i work across product, infrastructure, and reliability. 
 
-some things i’ve built:
+some of the things i’ve publicly built:
 
 · [cellarr](https://github.com/poiley/cellarr) · [nebularr-operator](https://github.com/poiley/nebularr-operator)
 · [ollama-dashboard](https://github.com/poiley/ollama-dashboard) · [whatisxlistening.to](https://github.com/poiley/whatisxlistening.to)
