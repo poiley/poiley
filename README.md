@@ -8,8 +8,8 @@ some things i’ve built:
 · [ollama-dashboard](https://github.com/poiley/ollama-dashboard) · [whatisxlistening.to](https://github.com/poiley/whatisxlistening.to)
 · [recognizer](https://github.com/poiley/recognizer) · [actual-software/actual-cli](https://github.com/actual-software/actual-cli)
 · [findmy-location](https://github.com/poiley/findmy-location) · [weekly-records](https://github.com/poiley/weekly-records)
-· [beady](https://github.com/poiley/beady) · [dotfiles](https://github.com/poiley/dotfiles) 
+· [beady](https://github.com/poiley/beady) · [dotfiles](https://github.com/poiley/dotfiles) ·
 
 i’m interested in developer tools, self-hosting, local ai, and music. i like systems that are pleasant to use and honest about how they behave.
 
-[twitter](https://x.com/_poile_) · [linkedin](https://www.linkedin.com/in/poile/) · [github](https://github.com/poiley) · [primitive](https://primitive.dev)
+· [twitter](https://x.com/_poile_) · [linkedin](https://www.linkedin.com/in/poile/) · [github](https://github.com/poiley) · [primitive](https://primitive.dev) ·
