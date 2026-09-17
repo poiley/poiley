@@ -6,7 +6,7 @@ some things i’ve built:
 
 · [cellarr](https://github.com/poiley/cellarr) · [nebularr-operator](https://github.com/poiley/nebularr-operator)
 · [ollama-dashboard](https://github.com/poiley/ollama-dashboard) · [whatisxlistening.to](https://github.com/poiley/whatisxlistening.to)
-· [recognizer](https://github.com/poiley/recognizer) · [actual-software/actual-cli]([https://github.com/poiley/wikipedia2md](https://github.com/actual-software/actual-cli))
+· [recognizer](https://github.com/poiley/recognizer) · [actual-software/actual-cli](https://github.com/actual-software/actual-cli)
 · [findmy-location](https://github.com/poiley/findmy-location) · [weekly-records](https://github.com/poiley/weekly-records)
 · [beady](https://github.com/poiley/beady) · [dotfiles](https://github.com/poiley/dotfiles) 
 
