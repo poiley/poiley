@@ -12,4 +12,4 @@ some of the things i’ve publicly built:
 
 i’m interested in developer tools, self-hosting, local ai, film, and music. i like systems that are pleasant to use and honest about how they behave.
 
-· [twitter](https://x.com/_poile_) · [linkedin](https://www.linkedin.com/in/poile/) · [github](https://github.com/poiley) · [letterboxd](https://letterboxd.com/bjp) · [primitive](https://primitive.dev) ·
+· [twitter](https://x.com/_poile_) · [linkedin](https://www.linkedin.com/in/poile/) · [github](https://github.com/poiley) · [letterboxd](https://letterboxd.com/bjp) · [lastfm](last.fm/user/poiley) · [primitive](https://primitive.dev) ·
